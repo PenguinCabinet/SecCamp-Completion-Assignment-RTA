@@ -13,6 +13,9 @@
 ### コネクト
 1. [PenguinCabinet](https://penguincabinet.com/) - 49:31:46
 
+### 全国大会
+1. [supurazako](https://x.com/Msprzk) - 21:58:00
+
 ## 2025
 ### ジュニア/全国大会/ネクスト
 1. [PenguinCabinet](https://penguincabinet.com/) - 34:15:00
