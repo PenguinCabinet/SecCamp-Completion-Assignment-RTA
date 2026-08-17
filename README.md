@@ -10,13 +10,13 @@
 * フォーマットは`ユーザー名 - 計測時:計測分:計測秒`です。秒がわからない場合、00としてください。ユーザー名の部分をハイパーリンクにしたい場合、お好みでどうぞ
 
 ## 2026
-### コネクト
-1. [PenguinCabinet](https://penguincabinet.com/) - 49:31:46
-
-### 全国大会
+### ジュニア/全国大会/ネクスト
 1. [supurazako](https://x.com/Msprzk) - 21:58:00
 2. [selalaluca](https://x.com/selalaluca) - 60:01:00
 3. [uyuki234](https://github.com/uyuki234) - 60:22:00
+
+### コネクト
+1. [PenguinCabinet](https://penguincabinet.com/) - 49:31:46
 
 ## 2025
 ### ジュニア/全国大会/ネクスト
