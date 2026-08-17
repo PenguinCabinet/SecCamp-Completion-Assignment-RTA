@@ -15,7 +15,8 @@
 
 ### 全国大会
 1. [supurazako](https://x.com/Msprzk) - 21:58:00
-2. [uyuki234](https://github.com/uyuki234) - 60:22:00
+2. [selalaluca](https://x.com/selalaluca) - 60:01:00
+3. [uyuki234](https://github.com/uyuki234) - 60:22:00
 
 ## 2025
 ### ジュニア/全国大会/ネクスト
